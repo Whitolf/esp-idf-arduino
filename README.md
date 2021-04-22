@@ -9,7 +9,7 @@ Boilerplate for developing ESP32 projects using ESP-IDF and VS Code
 
 1. Clone repository
 ```
-git clone https://github.com/abobija/esp-idf-vscode-boilerplate.git my-project
+git clone https://github.com/Whitolf/esp-idf-arduino.git.git my-project
 ```
 
 2. Go inside of project folder
